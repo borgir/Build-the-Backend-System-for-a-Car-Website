@@ -48,4 +48,7 @@ public class PriceClient {
         }
         return "(consult price)";
     }
+
+    public void getPrice() {
+    }
 }
